@@ -22,7 +22,7 @@ This page demonstrates the core capabilities of the Just the Docs theme, includi
 
 ---
 
-## 1. Mathematical Formulas
+## 1. Mathematical Formulas Vikas Test
 The probability density function of a Gaussian distribution is defined as:
 
 $$p(x) = \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}$$
